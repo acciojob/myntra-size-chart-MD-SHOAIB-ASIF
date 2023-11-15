@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+
+
+
+
+td{
+ width: 10%;
+}
+
+table{
+    border-spacing: 0;
+}
